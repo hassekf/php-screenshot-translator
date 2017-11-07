@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/cloud-vision": "^0.6.0",
+        "intervention/image": "^2.4",
+        "google/cloud-translate": "^1.0"
+    }
+}
